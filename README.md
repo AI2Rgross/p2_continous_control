@@ -104,4 +104,4 @@ Main files of the repository:
     - My notes about DDPG
         Report.pdf
 
-The code I developped to solve the Reacher environement is based on the p2_continous_control and ddpg_bipedal exercices from the UDACITY DRL github available here: https://github.com/udacity/deep-reinforcement-learning.
+The code I developped to solve the Reacher environment is based on code of the p2_continous_control and ddpg_bipedal exercices from the UDACITY DRL github available here: https://github.com/udacity/deep-reinforcement-learning.
