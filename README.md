@@ -92,8 +92,8 @@ Main files of the repository:
         model.py
 
     - the weights of the pytorch model for DDPG of the solved environment for the actor and critic.
-        checkpoint_actor.pth  (dqn)
-        checkpoint_critic.pth (ddqn)
+        checkpoint_actor.pth 
+        checkpoint_critic.pth
         
     - Installation notes and tips, brief description of the project
         README.md
